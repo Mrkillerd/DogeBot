@@ -123,11 +123,11 @@ const time2 = moment().tz("Asia/Jakarta").format("HH:mm:ss");
       var ucapanWaktu = "Good night🌃";
     }
  // BATAS \\
-menusimpel = false
+menusimpel = true
 banChats = false;
 offline = false;
-antidel = false;
-welcom = false;
+antidel = true;
+welcom = true;
 antical = false
 readGc = true; 
 readPc = false;
@@ -962,12 +962,12 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/916909137213`,
+                "body": `wa.me/918144542225`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/916909137213`,
+                "mediaUrl": `wa.me/918144542255`,
                 "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
                 "thumbnail": iye,
-                "sourceUrl": `wa.me/916909137213`,
+                "sourceUrl": `wa.me/918144542255`,
 },mentionedJid:[sender]}, quoted : mek})
 };
 const fakeyt = (teks) => {
